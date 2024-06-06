@@ -33,7 +33,7 @@ This project provides a robust pipeline for data analysis and machine learning, 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/GaddamVarshith/Data_Leakage_Protection_using_MachineLearning.git
+    git clone [https://github.com/GaddamVarshith/Data_Leakage_Protection_using_MachineLearning.git](https://github.com/GaddamVarshith/Data_Leakage_Protection_using_MachineLearning.git)
     ```
 
 2. Navigate to the project directory:
@@ -58,13 +58,14 @@ This project provides a robust pipeline for data analysis and machine learning, 
 3. The script will:
    - Load the data.
    - Preprocess the data.
+   - Split the data into training and test sets to prevent data leakage.
    - Train a Random Forest model.
    - Evaluate the model.
    - Generate and display visualizations.
 
 ## Data Description
 
-The dataset `uday2.csv` contains the following columns:
+The dataset `data.csv` contains the following columns:
 - `ID`: Identifier for each entry.
 - `Gender`: Categorical feature representing gender.
 - `Purchased`: Indicator if the item was purchased.
