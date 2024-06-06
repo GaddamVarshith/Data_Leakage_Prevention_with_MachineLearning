@@ -1,0 +1,21 @@
+ID,Age,Gender,Income,Purchased,Review,Target
+1,25,Male,50000,Yes,"Great product, very satisfied!",1
+2,30,Female,60000,No,"Not what I expected, poor quality.",0
+3,22,Male,45000,Yes,Decent quality for the price.,1
+4,35,Female,80000,Yes,"Exceeded my expectations, excellent quality.",1
+5,28,Female,75000,No,"It’s okay, nothing special.",0
+6,40,Male,90000,Yes,I love it! Definitely worth the money.,1
+7,31,Male,62000,No,The product arrived damaged and customer service was unhelpful.,0
+8,23,Female,48000,Yes,"Good value for the price, would buy again.",1
+9,29,Male,70000,No,"Mediocre product, would not recommend.",0
+10,33,Female,85000,Yes,Fantastic product! Works exactly as described.,1
+11,27,Male,53000,Yes,It’s good but had some issues with the installation.,1
+12,38,Female,87000,Yes,"Overall satisfied, but had to return due to a defect.",1
+13,26,Male,58000,No,"The product is not worth the price, very disappointed.",0
+14,32,Female,79000,Yes,"Excellent, would highly recommend to others.",1
+15,24,Male,47000,Yes,It does the job but feels cheap.,1
+16,36,Female,92000,Yes,"Very high quality, exactly what I needed.",1
+17,28,Female,69000,No,"The product broke after a week, very disappointed.",0
+18,39,Male,93000,Yes,Couldn’t be happier with this purchase!,1
+19,34,Female,82000,No,"The features are not as described, wouldn’t recommend.",0
+20,37,Male,88000,Yes,"Works perfectly, very satisfied with the purchase.",1
