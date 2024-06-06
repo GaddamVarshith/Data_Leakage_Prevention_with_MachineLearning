@@ -33,7 +33,7 @@ This project provides a robust pipeline for data analysis and machine learning, 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/GaddamVarshith/Data_Leakage_Protection_using_MachineLearning.git
     ```
 
 2. Navigate to the project directory:
@@ -52,7 +52,7 @@ This project provides a robust pipeline for data analysis and machine learning, 
 
 2. Run the script:
     ```sh
-    python your_script_name.py
+    python Data_leakage_protection.py
     ```
 
 3. The script will:
