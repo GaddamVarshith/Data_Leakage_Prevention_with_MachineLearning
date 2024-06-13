@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides a robust pipeline for data analysis and machine learning, specifically designed to prevent data leakage. It includes data preprocessing, model training, evaluation, and visualization, ensuring a comprehensive approach to handling data securely
+This project provides a robust pipeline for data analysis and machine learning, specifically designed to prevent data leakage. It includes data preprocessing, model training, evaluation, and visualization, ensuring a comprehensive approach to handling data securely.
 
 ## Table of Contents
 
