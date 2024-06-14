@@ -52,7 +52,7 @@ This project provides a robust pipeline for data analysis and machine learning, 
 
 2. Run the script:
     ```sh
-    python Data_leakage_protection.p
+    python Data_leakage_protection.py
     ```
 
 3. The script will:
